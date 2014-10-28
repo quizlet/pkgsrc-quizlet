@@ -1,8 +1,8 @@
 # $NetBSD: Makefile,v 1.12 2013/12/28 23:03:39 tron Exp $
 
-DISTNAME=	libwebp-0.3.1
+DISTNAME=	libwebp-0.4.2
 CATEGORIES=	graphics
-MASTER_SITES=	http://webp.googlecode.com/files/
+MASTER_SITES=	http://downloads.webmproject.org/releases/webp/
 #EXTRACT_SUFX=	.zip
 
 MAINTAINER=	ryoon@NetBSD.org
